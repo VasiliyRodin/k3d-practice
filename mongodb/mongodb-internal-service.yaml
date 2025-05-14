@@ -8,5 +8,5 @@ spec:
     app: mongodb
   ports:
   - protocol: TCP
-    port: 8081
+    port: 18081
     targetPort: 27017
