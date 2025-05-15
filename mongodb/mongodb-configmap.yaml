@@ -6,4 +6,3 @@ metadata:
 
 data:
   database_url: mongodb-internal-service
-  port: "18081"
